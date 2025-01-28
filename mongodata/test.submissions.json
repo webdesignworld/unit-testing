@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6786af7f004d2adcbefa0249"
+  },
+  "passed_grading": true,
+  "final_score": 95,
+  "code": "function solve() {...}",
+  "challenge_id": {
+    "$oid": "603d714d96c5d82aaf7b1f91"
+  },
+  "coder_id": {
+    "$oid": "603d714d96c5d82aaf7b1f92"
+  },
+  "submission_time": {
+    "$date": "2025-01-14T18:39:59.447Z"
+  },
+  "__v": 0
+}]

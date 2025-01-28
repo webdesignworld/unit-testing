@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6786b1161d6cef4b911c31bb"
+  },
+  "name": "input1",
+  "type": "string",
+  "code_id": {
+    "$oid": "603d714d96c5d82aaf7b1f91"
+  },
+  "__v": 0
+}]

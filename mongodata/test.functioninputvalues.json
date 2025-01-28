@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6786b19190a01f1767f49509"
+  },
+  "name": "input1",
+  "value": "Hello, world!",
+  "test_case_id": {
+    "$oid": "603d714d96c5d82aaf7b1f92"
+  },
+  "__v": 0
+}]

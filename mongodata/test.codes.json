@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6786b009a54757411fb96721"
+  },
+  "function_name": "solve",
+  "content": "function solve() {...}",
+  "language": "JavaScript",
+  "challenge_id": {
+    "$oid": "603d714d96c5d82aaf7b1f91"
+  },
+  "__v": 0
+}]

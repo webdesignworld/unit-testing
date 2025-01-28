@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6786aec125b91762b2269f30"
+  },
+  "title": "Challenge 1",
+  "category": "Programming",
+  "description": "Solve a basic algorithm problem.",
+  "difficulty_level": "Easy",
+  "manager_id": {
+    "$oid": "603d714d96c5d82aaf7b1f90"
+  },
+  "__v": 0
+}]

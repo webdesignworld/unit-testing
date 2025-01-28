@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6786ac5051a8ee43ac0d34a4"
+  },
+  "first_name": "Jane",
+  "last_name": "Smith",
+  "email": "jane.smith@example.com",
+  "password": "$2b$10$NJqdn6LoAgCqqVjCImIjXe1RNYmw8WHZmtiihpZw.oJC2YF7piJE6",
+  "avatar": "https://link-to-avatar.com/avatar.jpg",
+  "role": "Coder",
+  "description": "A passionate coder",
+  "score": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786ad3959103077f332b24f"
+  },
+  "first_name": "John",
+  "last_name": "Doe",
+  "email": "john.doe@example.com",
+  "password": "$2b$10$jh7H4nk.9d4svyDzwGvVregpXQgiimCu5O.NSLRsO5YxOpPtlMzhq",
+  "avatar": "https://link-to-avatar.com/avatar.jpg",
+  "role": "Manager",
+  "score": 0,
+  "__v": 0
+}]

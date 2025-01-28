@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node server",
-    "dev": "node --watch --env-file=.env server"
+    "start:dev": "cross-env APP_ENV=dev node server.js",
+    "start:test": "cross-env APP_ENV=test node server.js",
+    "start:prod": "cross-env APP_ENV=prod node server.js",
+    "test": "cross-env APP_ENV=test jest --detectOpenHandles",
+  "start": "cross-env APP_ENV=dev node server.js",
+"dev": "cross-env APP_ENV=dev node --watch server.js"
+
   },
   "keywords": [],
   "author": "",
@@ -13,9 +18,15 @@
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "joi": "^17.13.3",
     "mongodb": "^6.12.0",
     "mongoose": "^8.9.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
   }
 }
