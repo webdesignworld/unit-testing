@@ -1,1 +1,2 @@
-# expressjs-api-db
+# unit-testing with Jest
+Wasn't so funnny...
